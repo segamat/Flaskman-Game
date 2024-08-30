@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7190e76de1d3e2f45bcf05a4aae36954, type: 3}
+  m_Name: "\u78F7\u77FF\u77F3"
+  m_EditorClassIdentifier: 
+  ItemName: "\u78F7\u77FF\u77F3"
+  ItemImage: {fileID: -659674521, guid: 1323c2a0170a6e342bb95b417e7e1840, type: 3}
+  ItemScription: "\u78F7\u77FF\u77F3\uFF0C\u5730\u7403\u7684\u7259\u9F7F\uFF0C\u95EA\u95EA\u53D1\u5149\u7684\u201C\u9499\u201D\u3002"
+  ItemNum: 1
+  ItemElementnum: 2
+  ItemElement1: "Ca\u2083(PO\u2084)\u2082"
+  ItemElement2: Si
+  ItemElement3: 
+  mergy: 1
+  use: 0
+  superposition: 1

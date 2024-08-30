@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7190e76de1d3e2f45bcf05a4aae36954, type: 3}
+  m_Name: "\u6D88\u708E\u836F"
+  m_EditorClassIdentifier: 
+  ItemName: "\u6D88\u708E\u836F"
+  ItemImage: {fileID: 391349186, guid: 8bc41bafe98798242b83ab6f4b8990c8, type: 3}
+  ItemScription: "\u6D88\u708E\u836F\uFF0C\u5C0F\u5C0F\u836F\u4E38\u5374\u662F\u6CBB\u7597\u708E\u75C7\u7684\u597D\u5DE5\u5177"
+  ItemNum: 1
+  ItemElementnum: 1
+  ItemElement1: "AgNO\u2083"
+  ItemElement2: 
+  ItemElement3: 
+  price: 0
+  mergy: 1
+  use: 0
+  superposition: 0

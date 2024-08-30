@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7190e76de1d3e2f45bcf05a4aae36954, type: 3}
+  m_Name: "\u7126\u70AD"
+  m_EditorClassIdentifier: 
+  ItemName: "\u7126\u70AD"
+  ItemImage: {fileID: -390808807, guid: 4581557b956a13340b15378347bc4797, type: 3}
+  ItemScription: "\u7126\u70AD\uFF0C\u7164\u70AD\u7684\u201C\u70E4\u201D\u9A8C\uFF0C\u9ED1\u5F97\u6709\u6DF1\u5EA6\u3002"
+  ItemNum: 1
+  ItemElementnum: 2
+  ItemElement1: C
+  ItemElement2: "Al\u2082O\u2083"
+  ItemElement3: 
+  price: 0
+  mergy: 1
+  use: 0
+  superposition: 1

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7190e76de1d3e2f45bcf05a4aae36954, type: 3}
+  m_Name: "\u70E7\u78B1\u6EB6\u6DB2"
+  m_EditorClassIdentifier: 
+  ItemName: "\u70E7\u78B1\u6EB6\u6DB2"
+  ItemImage: {fileID: 21300000, guid: 7e5bca11df647ff43a6cb8a7e40c840e, type: 3}
+  ItemScription: "\u70E7\u78B1\u6EB6\u6DB2\uFF0C\u78B1\u6027\u201C\u8FA3\u59B9\u201D\uFF0C\u70ED\u60C5\u5230\u201C\u70E7\u5FC3\u201D"
+  ItemNum: 1
+  ItemElementnum: 1
+  ItemElement1: NaOH
+  ItemElement2: 
+  ItemElement3: 
+  price: 0
+  mergy: 0
+  use: 1
+  superposition: 0

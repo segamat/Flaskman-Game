@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7190e76de1d3e2f45bcf05a4aae36954, type: 3}
+  m_Name: "\u8D64\u94C1\u77FF"
+  m_EditorClassIdentifier: 
+  ItemName: "\u8D64\u94C1\u77FF"
+  ItemImage: {fileID: 21300000, guid: aabcbc03a071dba458f92fc7e0f92dec, type: 3}
+  ItemScription: "\u8D64\u94C1\u77FF\uFF0C\u94C1\u7684\u521D\u604B\uFF0C\u7EA2\u5F97\u50CF\u521D\u604B\u7684\u8138\u988A\u3002"
+  ItemNum: 1
+  ItemElementnum: 1
+  ItemElement1: "Fe\u2082O\u2083"
+  ItemElement2: 
+  ItemElement3: 
+  mergy: 1
+  use: 0
+  superposition: 1

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e098f62903d39fb4e8d479a137faafde, type: 3}
+  m_Name: "\u94F6\u6C28\u6EB6\u6DB2"
+  m_EditorClassIdentifier: 
+  factor:
+  - "AgNO\u2083"
+  - "NH\u2083\xB7H\u2082O"
+  beam: 0
+  heat: 0
+  electrolyze: 0
+  nocondition: 1
+  product:
+  - "Ag(NH\u2083)\u2082OH"
+  - "NH\u2084NO\u2083"
+  - "H\u2082O"
+  use: 0
+  condition: 0
+  additem: 1

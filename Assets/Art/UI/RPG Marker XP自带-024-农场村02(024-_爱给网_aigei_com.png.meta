@@ -1,0 +1,1350 @@
+fileFormatVersion: 2
+guid: 367790ccba591324182778fb7842580b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 95
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b693487902a8fce4c85e6e2ce8005148
+      internalID: 122073421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_1"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 465
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872fc3a5f97cea54ebe6dd16e4a321df
+      internalID: -1095697553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_2"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a275190e0d8a54ba0d650436360e01
+      internalID: -1781678669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_3"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 449
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfafdd72d5ad6d843a5e599c548fded5
+      internalID: -2159069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_4"
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 450
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb83c2744c8770e46bd87632c0d9ba88
+      internalID: -858658283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_5"
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 457
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df217378c5bb7144da0b7db3156f02e3
+      internalID: -615729875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_6"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 458
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22126add16010948971259843c388a1
+      internalID: -204707707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_7"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 393
+        width: 95
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73998351d293824cbf4b8b3772f08ed
+      internalID: -704422776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_8"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 417
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acba1201ce0d7c048a4d7c6bc68bad4a
+      internalID: -1940719606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_9"
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 385
+        width: 94
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7119c41a4209542a6fe4b4793620ee
+      internalID: -407182611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_10"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 419
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8659f061d4144a40acdf24e5013fbf5
+      internalID: 1765204314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_11"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 402
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b01589d92a98247a513af52be078c3
+      internalID: 880294789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_12"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 384
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea894312167509345904fbec5d047bb3
+      internalID: 1097421331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_13"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771ffb67127bb5b4bb40f732a53eeb77
+      internalID: 259368095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_14"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 329
+        width: 94
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d563376bfec687c47a43e583ed737a4a
+      internalID: 449089403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_15"
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 355
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03efb122d16705949966b9f3e4092a9b
+      internalID: -1726878690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_16"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b20a4bfb3747d489919536b9e9147b
+      internalID: -1801205701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_17"
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 337
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8bbd6b41953c34185c951930c43571
+      internalID: 1648229966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_18"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 325
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c1a175ecfe161459637da481b72903
+      internalID: 1295924106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_19"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 324
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a990f825041cb647a2355d50a96bfbc
+      internalID: 592162169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_20"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 321
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea395783b8e41a847881a1b27c1cadf8
+      internalID: -2040714911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_21"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 288
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af29b3236210f74db640c8239ce4036
+      internalID: -1110107310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_22"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8f4dd5eed32d443aa43eb9aab10472
+      internalID: -1709648996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_23"
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 275
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c126ff57bc1b2d541a3b8d7eec90f638
+      internalID: -2004437668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_24"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 288
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b3ce341569fb1438eff16bcdcfa214
+      internalID: 1720515884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_25"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8747a3512a7a949bcbf4b4ed00634d
+      internalID: 855621061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_26"
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 289
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740463e50ce99ff43b7da90bdbb47329
+      internalID: 848495489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_27"
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 160
+        width: 63
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44af891ff36118e4494f6f1882846ddb
+      internalID: -1852481353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_28"
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 261
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6507f6aa569864a9fed51c41957479
+      internalID: -1009137895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_29"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 257
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fe441b37d4dd84683523d89ecda797
+      internalID: -380889890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_30"
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 273
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6159e1392a34c524096209fb6beb5240
+      internalID: 736010970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_31"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 257
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5322aeb55437f341acaf11e0bc82b81
+      internalID: -1140931774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_32"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 256
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b49e789efa596f4990a613d97e23ac4
+      internalID: 1426257911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_33"
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 256
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc966ed97250107468c933ed9fe5cb34
+      internalID: 71052489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_34"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 168
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b12b06e8ee24f4a885327852b7b32b
+      internalID: -891346784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_35"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 74
+        width: 23
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e547223caba212846b38de0f813c2fd1
+      internalID: -1704980310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_36"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 106
+        width: 87
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41b3f4583bd8cb4eb522b142aca4e9e
+      internalID: -1941337462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_37"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 96
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e779278daca35e4e90c02ce3614918d
+      internalID: -221463460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_38"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb2b604cd9f2fe49bfa4c946c129945
+      internalID: 1437612117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_39"
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 135
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513dc1c1ee3d0a94cb6d289de2efcbdd
+      internalID: 1939910317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_40"
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 101
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b147b7f01f073458e0b33f33ae64d9
+      internalID: -1457276362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_41"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 72
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f963f3eb3d47cd45ba83d8d6c3e04f3
+      internalID: 1691661580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_42"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 75
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a72c5991fe3cdf4da2545b47582a373
+      internalID: -841789902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_43"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 68
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381ffd161ccf3134d8c47429f665c08c
+      internalID: -1123402712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_44"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 66
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b46ea6f5acf5b48888584ece787dcd
+      internalID: -1187230248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_45"
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 65
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7891f0590b249e4aa09d6e65857829f
+      internalID: 894336701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_46"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 65
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97306aabdc4c43242950cc2d7d58284a
+      internalID: 1320112581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_47"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 8
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436da1103d1279743a1691308147bc15
+      internalID: 407594000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_48"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 4
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3461b22ba83c0184d8e7a12b998e2d0e
+      internalID: 1631643949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_49"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025d0447833137244bb882d9055722bc
+      internalID: 882871500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_50"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 19
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260276a295a4e9c4bb9bc66b45060c2c
+      internalID: 1524194328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_51"
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 43
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcab3072bd0fc245ad25e1b7ae8d5e1
+      internalID: 1398430035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_52"
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 35
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559ca4517ba2ba54ea6b7064de7288be
+      internalID: 680446829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_53"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 6
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86824b9955cdd943bbc77f9a6d985de
+      internalID: 262114874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_54"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce1b4c4e15608742bf91a79326624a3
+      internalID: -1369748563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_0": 122073421
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_1": -1095697553
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_10": 1765204314
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_11": 880294789
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_12": 1097421331
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_13": 259368095
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_14": 449089403
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_15": -1726878690
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_16": -1801205701
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_17": 1648229966
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_18": 1295924106
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_19": 592162169
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_2": -1781678669
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_20": -2040714911
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_21": -1110107310
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_22": -1709648996
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_23": -2004437668
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_24": 1720515884
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_25": 855621061
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_26": 848495489
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_27": -1852481353
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_28": -1009137895
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_29": -380889890
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_3": -2159069
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_30": 736010970
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_31": -1140931774
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_32": 1426257911
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_33": 71052489
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_34": -891346784
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_35": -1704980310
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_36": -1941337462
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_37": -221463460
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_38": 1437612117
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_39": 1939910317
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_4": -858658283
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_40": -1457276362
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_41": 1691661580
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_42": -841789902
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_43": -1123402712
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_44": -1187230248
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_45": 894336701
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_46": 1320112581
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_47": 407594000
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_48": 1631643949
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_49": 882871500
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_5": -615729875
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_50": 1524194328
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_51": 1398430035
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_52": 680446829
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_53": 262114874
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_54": -1369748563
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_6": -204707707
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_7": -704422776
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_8": -1940719606
+      "RPG Marker XP\u81EA\u5E26-024-\u519C\u573A\u675102(024-_\u7231\u7ED9\u7F51_aigei_com_9": -407182611
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
